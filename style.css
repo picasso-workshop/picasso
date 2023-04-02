@@ -1,0 +1,16 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.canvas{
+    height: 100px;
+    width: 50px;
+    background-color: black;
+}
+
+.class{
+    height: 10px;
+    width: 30px;
+    background-color: white;
+}
